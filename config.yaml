@@ -1,0 +1,9 @@
+
+path: C:/Users/msi/ML/ANPR
+train: train
+val: val
+
+
+# Classes
+names:
+  0: license plate
